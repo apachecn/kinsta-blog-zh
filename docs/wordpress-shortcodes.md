@@ -278,7 +278,7 @@ Note the location of the plugin directory
 
 在 **salcodes** 插件目录下，创建一个同名的 PHP 文件(【salcodes.php】**)。完成后，将以下标题添加到插件文件中:**
 
- **```
+```
 <?php
 
 /*
