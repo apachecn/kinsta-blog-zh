@@ -1,6 +1,6 @@
 # 网络商务支付初学者指南
 
-> 原文:# t0]https://kinta . com/blog/woo commerce-payments/
+> 原文:# t0]https://kinta . com/blog/woocommerce-payments/
 
 没有支付方式，电子商务就什么都不是。这显然是一个至关重要的因素，这意味着您还需要考虑使用哪种支付网关。有许多长期竞争者需要考虑，但是 WooCommerce Payments 值得你花时间，尤其是如果你使用这个插件的话。
 

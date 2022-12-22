@@ -1,6 +1,6 @@
 # 学习如何驯服 React 的 useCallback 钩子
 
-> 原文:# t0]https://kinta . com/blog/react-use callback/
+> 原文:# t0]https://kinta . com/blog/react-usecallback/
 
 [React.js 近年来变得广泛流行](https://kinsta.com/blog/web-development-tools/#27-reactjs)已经不是什么秘密了。它现在是许多互联网最杰出的玩家的首选 [JavaScript 库](https://kinsta.com/blog/javascript-libraries/#reactjs)，包括脸书和 WhatsApp。
 

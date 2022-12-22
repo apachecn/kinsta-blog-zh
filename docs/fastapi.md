@@ -1,6 +1,6 @@
 # 使用 FastAPI for Python 构建应用程序
 
-> 原文:# t0]https://kinta . com/blog/fast API/
+> 原文:# t0]https://kinta . com/blog/fastapi/
 
 FastAPI 是一个快速轻量级的 web 框架，用于使用 [Python](https://kinsta.com/blog/python-object-oriented-programming/) 3.6 及更高版本构建现代应用编程接口。在本教程中，我们将介绍使用 FastAPI 构建应用程序的基本知识，您将会对它被提名为 2021 年 T2 最佳开源框架之一的原因有所了解。
 

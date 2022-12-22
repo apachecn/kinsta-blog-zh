@@ -1,6 +1,6 @@
 # 如何销售 WooCommerce 订阅(+ 7 个可靠的备选方案)
 
-> 原文:# t0]https://kinta . com/blog/woo commerce-subscriptions/
+> 原文:# t0]https://kinta . com/blog/woocommerce-subscriptions/
 
 虽然订阅是一种常见的支付模式，但 WooCommerce 不支持开箱即用的重复支付。这就是 WooCommerce 订阅发挥作用的地方。
 

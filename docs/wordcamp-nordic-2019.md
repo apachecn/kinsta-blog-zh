@@ -1,6 +1,6 @@
 # 加入首届北欧单词营的 Kinsta 团队
 
-> 原文:# t0]https://kinta . com/blog/word camp-nordic-2019/
+> 原文:# t0]https://kinta . com/blog/wordcamp-nordic-2019/
 
 清除您的日程安排并标记您 2019 年 3 月 7 日至 8 日的日历。首届北欧单词营在芬兰赫尔辛基举行，我们兴奋不已！这是一个你不想错过的 WordPress 活动。来自 Kinsta 的 11 名团队成员将出席会议，我们希望与大家见面并聊天。
 

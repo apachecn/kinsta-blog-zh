@@ -1,6 +1,6 @@
 # 如何选择正确的 SMTP 端口(端口 25、587、465 或 2525)
 
-> 原文:# t0]https://kinta . com/blog/SMTP 端口/
+> 原文:# t0]https://kinta . com/blog/SMTP-port/
 
 努力找出正确的 SMTP 端口来使用？去过那里，做过那个！
 

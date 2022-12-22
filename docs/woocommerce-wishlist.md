@@ -1,6 +1,6 @@
 # 你的商店的 8 个最佳 WooCommerce 愿望清单插件
 
-> 原文:# t0]https://kinta . com/blog/woo commerce-wishlist/
+> 原文:# t0]https://kinta . com/blog/woocommerce-wishlist/
 
 你的商店访客经常会发现他们感兴趣的产品，但还不准备购买。不幸的是，这会导致他们最终忘记这些东西。
 

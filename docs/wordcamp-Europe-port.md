@@ -1,6 +1,6 @@
 # 在波尔图举行的 2022 年欧洲世界夏令营上认识金斯塔
 
-> 原文:# t0]https://kinta . com/blog/word camp-Europe-port/中
+> 原文:# t0]https://kinta . com/blog/wordcamp-Europe-port/中
 
 我们很高兴地宣布，金斯塔团队将参加在波尔图举行的 2022 年欧洲世界语言营！
 

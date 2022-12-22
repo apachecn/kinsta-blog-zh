@@ -1,6 +1,6 @@
 # 在 2020 年欧洲世界语言营上经营一个虚拟赞助商展位(内有礼品包)
 
-> 原文:# t0]https://kinta . com/blog/word camp-Europe-2020/
+> 原文:# t0]https://kinta . com/blog/wordcamp-Europe-2020/
 
 今年的欧洲单词营很特别。这是单词营历史上第一次 100%在网上通过虚拟展台进行的活动。
 

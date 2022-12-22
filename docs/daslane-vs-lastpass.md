@@ -1,6 +1,6 @@
 # Dashlane 与 LastPass:密码管理器在 10 个关键领域的比较
 
-> 原文:# t0]https://kinta . com/blog/daslane-vs-last ass/
+> 原文:# t0]https://kinta . com/blog/daslane-vs-lastpass/
 
 在选择密码管理器时，选择通常归结为 Dashlane 还是 LastPass。虽然这两个服务都是密码管理市场的巨头，但一些用户可能更喜欢其中一个，尤其是因为其中一个有着不太完美的历史。
 

@@ -1,6 +1,6 @@
 # 包含您的数据:用 Docker 运行 MariaDB
 
-> 原文:# t0]https://kinta . com/blog/mariadb 坞站/
+> 原文:# t0]https://kinta . com/blog/mariadb-docker/
 
 MariaDB 是一个免费的数据库服务器，它使用结构化查询语言(SQL)提供数据访问。它提供了密码、基于角色的访问控制等安全功能来保护您的数据。
 

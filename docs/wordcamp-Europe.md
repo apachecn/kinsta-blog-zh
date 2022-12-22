@@ -1,6 +1,6 @@
 # 参加 2020 年欧洲世界夏令营
 
-> 原文:# t0]https://kinta . com/blog/word camp-Europe/
+> 原文:# t0]https://kinta . com/blog//
 
 请在您的日历上标记 2020 年 6 月 4 日至 6 日，参加有史以来第一次[虚拟世界训练营欧洲](https://2020.europe.wordcamp.org/)！鉴于当前的全球形势，我们要感谢 [WordPress 社区](https://kinsta.com/learn/wordpress-communities/)为将 WordPress 欧洲版重新组织成全球在线活动所做的努力。
 
