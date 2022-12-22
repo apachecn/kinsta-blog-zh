@@ -1,6 +1,6 @@
 # 剖析 WordPress TinyMCE 编辑器
 
-> 原文:# t0]https://kinta . com/blog/WordPress-tinymce 编辑器/
+> 原文:# t0]https://kinta . com/blog/WordPress-tinymce-editor/
 
 这是两篇致力于 WordPress 编辑的文章的第二部分。第一篇文章是关于 [WordPress 文本编辑器](https://kinsta.com/blog/wordpress-text-editor/)的，而在这篇文章中，我们将剖析 WordPress TinyMCE 编辑器，我们将按照我们的意愿对其进行修改。请遵循以下内容，我们将向您展示如何:
 

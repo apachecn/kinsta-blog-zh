@@ -1,6 +1,6 @@
 # 30+最佳 WooCommerce 主题，装扮 2022 年的电子商务网站
 
-> 原文:# t0]https://kinta . com/blog/woo commerce-themes/
+> 原文:# t0]https://kinta . com/blog/woocommerce-themes/
 
 我们都知道并喜欢 WordPress 的博客功能。
 

@@ -1,6 +1,6 @@
 # 一种新的 WooCommerce 替代方案——你好，BigCommerce
 
-> 原文:# t0]https://kinta . com/blog/woo commerce-备选-bigcommerce/
+> 原文:# t0]https://kinta . com/blog/woocommerce-alternative-bigcommerce/
 
 WordPress 是世界上使用最广泛的内容管理系统。事实上，它为互联网上三分之一的网站供电。在过去，如果你想在你的网站中加入一个电子商务商店，最流行的选择通常是 WooCommerce。
 

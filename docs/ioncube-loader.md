@@ -1,6 +1,6 @@
 # 如何安装 ionCube Loader(分步教程)
 
-> 原文:# t0]https://kinta . com/blog/ioncube loader/
+> 原文:# t0]https://kinta . com/blog/ioncube-loader/
 
 如果你需要在你的应用程序中加密 PHP 代码，那么一个非常受欢迎的选择是 [ionCube](https://www.ioncube.com) ，它被设计成可以很好地与小型和企业级应用程序集成。
 

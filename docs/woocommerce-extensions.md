@@ -1,6 +1,6 @@
 # 35 个最佳 WooCommerce 扩展来增强您的在线商店
 
-> 原文:# t0]https://kinta . com/blog/woo commerce-extensions/
+> 原文:# t0]https://kinta . com/blog/woocommerce-extensions/
 
 大家都知道 WooCommerce。它是 WordPress 上最大和最受欢迎的电子商务平台，因为它的免费定价、丰富的功能列表和巨大的可扩展性。如果你打算开一家电子商务商店，WooCommerce 可能是你下载的第一个插件。
 

@@ -1,6 +1,6 @@
 # 20 多个令人震惊的 Instagram 统计数据和事实
 
-> 原文:# t0]https://kinta . com/blog/insta gram-stats/
+> 原文:# t0]https://kinta . com/blog/instagram-stats/
 
 Instagram 于 2010 年推出，是一个免费的照片和视频分享平台，最初仅在 iOS 上提供。然而，在短短的几年里，它成为了社交媒体的主要内容，脸书在 2012 年以 10 亿美元的价格收购了它。
 
